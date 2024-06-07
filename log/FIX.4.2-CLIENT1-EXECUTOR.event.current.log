@@ -1,0 +1,11 @@
+20240503-14:18:04.446998000 : Created session
+20240503-14:18:04.450715000 : Connecting to 127.0.0.1 on port 5001 (Source :0)
+20240503-14:18:06.451309000 : Connecting to 127.0.0.1 on port 5001 (Source :0)
+20240503-14:18:08.453250000 : Connecting to 127.0.0.1 on port 5001 (Source :0)
+20240503-14:18:10.453709000 : Connecting to 127.0.0.1 on port 5001 (Source :0)
+20240503-14:18:12.455907000 : Connecting to 127.0.0.1 on port 5001 (Source :0)
+20240507-21:35:21.378786000 : Created session
+20240507-21:35:21.404140000 : Connecting to 127.0.0.1 on port 5001 (Source :0)
+20240507-21:35:21.405603000 : Initiated logon request
+20240507-21:35:21.406543000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20240507-21:35:21.406564000 : Received logon response

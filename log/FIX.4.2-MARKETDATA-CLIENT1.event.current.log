@@ -1,0 +1,6 @@
+20240507-21:34:43.667121000 : Created session
+20240507-21:35:21.405662000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20240507-21:35:21.406248000 : Received logon request
+20240507-21:35:21.406418000 : Responding to logon request
+20240507-21:37:03.182245000 : Socket Error: Connection reset by peer.
+20240507-21:37:03.182384000 : Disconnecting
